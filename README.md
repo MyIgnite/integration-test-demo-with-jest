@@ -1,6 +1,7 @@
-Challenge: Application ready to apply unit tests
+Challenge: Application ready to apply integration tests
 
-Clone the project, navigate to the project root and run:
+- Install docker on machine
+- Clone the project, navigate to the project root and run:
 
-`yarn` <br />
+`docker-compose up` <br />
 `yarn test`
